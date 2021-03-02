@@ -3,8 +3,8 @@ public class C {
   /*  A obj = new B();
     obj.methodOne();
     System.out.println(obj.name); */
-    A obj = new A();
-    obj.methodTwo();
+    A obj = new B();
+    //obj.methodOne();
     //System.out.println("value " + obj.x(14.000f));
     //obj.methodTwo();
     //System.out.println(obj);

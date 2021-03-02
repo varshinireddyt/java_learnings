@@ -6,15 +6,16 @@ Static and non static members DONE
 Access specifier DONE
 Java Data Type casting, Narrowing and widening DONE
 Java Inheritance DONE
-this and super keyword. [super is pending]
+this and super keyword. DONE
 Java polymorphism DONE
 Method Overloading (compile time) and Method overriding (run time) with type cast DONE
-Static method overriding and rules pending
-Abstract and Inheritance
-Arrays
+Static method overriding and rules DONE
+Abstract and Inheritance DONE
+Arrays DONE
 Java Packages
 Java File handling.
-String class.
+String class. DONE(stringbuffer and stringbuilder pending)
+Comparator and Comparable DONE
 Exception
 Advance:
 Java Database handling (JDBC ODBC)

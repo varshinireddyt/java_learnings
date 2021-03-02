@@ -1,10 +1,11 @@
 public class B extends A {
   String name = "Z" ;
   int i = 20;
+  int v = 10;
   int variableOne = 90;
-  public void methodOne() {
-    //this.methodTwo();
-    System.out.println("Method Two" + super.variable);
+ public void method() {
+    this.methodOne();
+  //  System.out.println("Method Two" + super.variable);
   }
 
 
