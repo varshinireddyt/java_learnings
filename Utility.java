@@ -1,5 +1,5 @@
 // Utility Class: We are maintaing these class for utility
-// Main goal: To implement different helpers, that will be helpful for my carrier
+// Main goal: To implement different helpers, that will be helpful for my carrier 
 // - Without using instance variable in Utility class, i want to learn.
 
 public class Utility {
